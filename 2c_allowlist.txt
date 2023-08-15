@@ -1,22 +1,22 @@
-1337x.org
-1337x.to
-bayareasaa.org
-corporate.wwe.com
-deviantart.com
-facebook.com
-fredericks.com
-get.protonvpn.com
-intimissimi.com
-kickass.to
-linkedin.com
-photobucket.com
-pinterest.com
-pixton.com
-privateinternetaccess.com
-protonvpn.com
-proxpn.com
-torrentbit.net
-twitter.com
-victoriassecret.com
-wwe.com
-xxxchurch.com
+1337x.org	# torrent
+1337x.to	# torrent
+kickass.to	# torrent
+torrentbit.net	# torrent
+bayareasaa.org	# saa
+xxxchurch.com	# saa
+deviantart.com	# social
+pixton.com	# social
+facebook.com	# social
+pinterest.com	# social
+twitter.com	# social
+linkedin.com	# social
+photobucket.com	# social
+get.protonvpn.com	# vpn
+protonvpn.com	# vpn
+proxpn.com	# vpn
+privateinternetaccess.com	# vpn
+fredericks.com	# lingerie
+victoriassecret.com	# lingerie
+intimissimi.com	# lingerie
+corporate.wwe.com	# sports
+wwe.com	# sports
