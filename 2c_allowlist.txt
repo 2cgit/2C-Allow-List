@@ -4,6 +4,14 @@ kickass.to	# torrent
 torrentbit.net	# torrent
 bayareasaa.org	# saa
 xxxchurch.com	# saa
+ae01.alicdn.com # shopping
+ae04.alicdn.com # shopping
+g.alicdn.com # shopping
+s.click.aliexpress.com # shopping
+ynuf.alipay.com # shopping
+cmap.alibaba.com # shopping
+img.alibaba.com # shopping
+aliexpress-media.com # shopping
 deviantart.com	# social
 pixton.com	# social
 facebook.com	# social
