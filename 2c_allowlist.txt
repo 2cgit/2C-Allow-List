@@ -11,6 +11,7 @@ s.click.aliexpress.com # shopping
 ynuf.alipay.com # shopping
 cmap.alibaba.com # shopping
 img.alibaba.com # shopping
+ae01.alicdn.com # shopping
 aliexpress-media.com # shopping
 deviantart.com	# social
 pixton.com	# social
